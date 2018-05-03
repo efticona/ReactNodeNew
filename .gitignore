@@ -1,2 +1,27 @@
+# OS X
+.DS_Store*
+Icon?
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.docx
+# Linux
+.directory
+*~
+
+
+# npm
 node_modules
 client/node_modules
+*.log
+*.gz
+
+
+# Coveralls
+coverage
+
+# Benchmarking
+benchmarks/graphs
